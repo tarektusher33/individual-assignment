@@ -8,6 +8,6 @@ int main(){
         a = b;
         b = temp;
     }
-    cout<<b<<endl;
+    cout<<"5th fibonacci number is " << b<<endl;
 return 0;
 }
